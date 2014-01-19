@@ -1,0 +1,7 @@
+{
+    "name": "jQuery flexibleCssSize",
+    "description": "指定したタグの横幅を基準に、指定した基準サイズとの割合でcssを変更するjQuery Plugin",
+    "options": {
+        "outdir": "yuidoc/"
+    }
+}

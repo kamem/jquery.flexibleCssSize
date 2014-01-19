@@ -1,0 +1,51 @@
+@charset "utf-8";
+
+/* 1 */
+section:nth-child(1) figure {
+	margin: 40px 0;
+	width: 50%;
+	float: left;
+	text-align: center;
+}
+
+section:nth-child(1) figure img {
+	margin-bottom: 20px;
+}
+
+
+
+/* 2 */
+section:nth-child(2) figure {
+	margin: 40px 0;
+	text-align: center;
+}
+
+section:nth-child(2) figure img {
+	margin-bottom: 20px;
+}
+
+section:nth-child(3) p {
+	text-align: center;
+}
+
+
+
+/* 3 */
+section:nth-child(3) figure {
+	margin: 20px 0;
+	width: 50%;
+	display: inline-block;
+	text-align: center;
+}
+
+section:nth-child(3) figure:nth-child(4) {
+	width: 100%;
+}
+
+section:nth-child(3) figure img {
+	margin-bottom: 20px;
+}
+
+section:nth-child(3) p {
+	text-align: center;
+}
